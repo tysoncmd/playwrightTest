@@ -1,0 +1,27 @@
+{
+  "name": "playwrighttest",
+  "version": "1.0.0",
+  "description": "test project for writing playwright tests",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tysoncmd/playwrightTest.git"
+  },
+  "author": "Tyson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tysoncmd/playwrightTest/issues"
+  },
+  "homepage": "https://github.com/tysoncmd/playwrightTest#readme",
+  "keywords": [],
+  "devDependencies": {
+    "@playwright/test": "^1.17.1",
+    "prettier": "2.5.1"
+  }
+}
